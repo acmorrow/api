@@ -530,7 +530,7 @@ message Fragment {
 }
 
 message ListFragmentsRequest {
-  string organization_id = 1; 
+  string organization_id = 1;
   bool show_public = 2;
 }
 
